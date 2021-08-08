@@ -1,0 +1,7 @@
+/home/nntzhc/MyProjs/mprpc/build/CMakeFiles/rebuild_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/CMakeFiles/edit_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/example/CMakeFiles/edit_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/nntzhc/MyProjs/mprpc/build/example/callee/CMakeFiles/provider.dir
